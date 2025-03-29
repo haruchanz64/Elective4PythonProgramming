@@ -8,7 +8,7 @@ This repository contains all Python coding activities. Each coding question/acti
 
 3. You have 30 pieces of candy and you want to share them equally with 5 friends. How many pieces of candy does each friend get? (TotalCandyPerFriends.py)
 
-4. You are painting a room that is 12 feet long and 8 feet wide. How many square feet of paint do you need if one gallon of paint covers 350 square feet? ()
+4. You are painting a room that is 12 feet long and 8 feet wide. How many square feet of paint do you need if one gallon of paint covers 350 square feet? (GallonsOfPaint.py)
 
 5. Create a Python program that accepts two strings, then displays its total characters when combined. (TotalCharacterOfCombinedStrings.py)
 
