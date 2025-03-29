@@ -24,7 +24,7 @@ This repository contains all Python coding activities. Each coding question/acti
 
 11. Write a Python program that iterates the integers from 1 to 50. For multiples of three, print "Fizz" instead of the number, and for multiples of five, print "Buzz". For numbers that are multiples of three and five, print "FizzBuzz". (FizzBuzz.py)
 
-12. Write a Python program that accepets a word and counts the number of vowels in it. (VowelExtractor.py)
+12. Write a Python program that accepts a word and counts the number of vowels in it. (VowelExtractor.py)
 
 13. Write a Python program to get the Fibonacci series between 0 and 50. (FibonacciSequence.py)
 
