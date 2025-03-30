@@ -1,3 +1,4 @@
+# If you're reading this script, just follow the original question - I just want to add another functionality because well I had to. :)
 def get_email_count():
     return int(input("How many emails (internetX@gmail.net do you need to create? (X = number of emails): "))
 
