@@ -1,5 +1,5 @@
 def convert_php_to_usd(amount_php):
-    exchange_rate = 0.01743  # Current exchange rate, definitely did research for this :)
+    exchange_rate = 0.01743022  # Current exchange rate, definitely did research for this :) (https://www.xe.com/currencyconverter/convert/?Amount=1&From=PHP&To=USD)
     amount_usd = amount_php * exchange_rate
     return amount_usd
 
