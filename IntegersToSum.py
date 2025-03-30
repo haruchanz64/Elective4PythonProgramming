@@ -1,12 +1,12 @@
 def sum_of_digits(numbers):
-    digits_sum = 0
+    digits_of_all_sum = 0
 
     while numbers > 0:
         digit = numbers % 10
-        digits_sum += digit
+        digits_of_all_sum += digit
         numbers //= 10  # Remove the last digit to prevent infinite loop :)
 
-    return digits_sum
+    return digits_of_all_sum
 
 
 def main():
